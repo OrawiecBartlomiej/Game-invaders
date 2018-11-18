@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+#container{
+    width: 600px;
+    height: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    border: greenyellow solid 2px;
+}
+
+h1{
+    color: azure;
+    text-align: center;
+}
